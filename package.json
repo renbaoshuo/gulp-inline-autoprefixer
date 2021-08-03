@@ -4,10 +4,10 @@
     "url": "https://github.com/dlutwuwei/gulp-inline-autoprefixer/issues"
   },
   "dependencies": {
-    "autoprefixer": "^6.3.7",
+    "autoprefixer": "^10.3.1",
     "cheerio": "^0.20.0",
     "event-stream": "^3.3.4",
-    "postcss": "^5.1.1"
+    "postcss": "^8.3.6"
   },
   "description": "Gulp plugin to Autoprefix all CSS inside an html page - CSS inside style tags and inside style attributes. Uses html-autoprefixer under the hood.",
   "directories": {
